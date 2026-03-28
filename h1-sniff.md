@@ -98,3 +98,11 @@ mm. google.com, terokarvinen.com ja goatcounter.
 Yritin selata reddittiä, mutta pääsy sivulle estettiin. Nimipalvelimen kautta selvittämään redditin IP ja siihen yhteys, data tulee HTTPS:n kautta joten salattu ja sitä ei pääse tarkemmin tutkimaan. 
 
 
+
+Lähteet:
+
+Karvinen, T. 2025. Wireshark - Getting Started.
+https://terokarvinen.com/wireshark-getting-started/
+
+Karvinen, T. 2025. Network Interface Names on Linux.
+https://terokarvinen.com/network-interface-linux/
