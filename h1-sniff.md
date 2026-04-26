@@ -101,8 +101,8 @@ Yritin selata reddittiä, mutta pääsy sivulle estettiin. Nimipalvelimen kautta
 
 Lähteet:
 
-Karvinen, T. 2025. Wireshark - Getting Started.
+* Karvinen, T. 2025. Wireshark - Getting Started.
 https://terokarvinen.com/wireshark-getting-started/
 
-Karvinen, T. 2025. Network Interface Names on Linux.
+* Karvinen, T. 2025. Network Interface Names on Linux.
 https://terokarvinen.com/network-interface-linux/
