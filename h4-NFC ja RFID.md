@@ -38,6 +38,6 @@ Viimeisin päivitys on maaliskuulta 2024, jolloin n. 36% lukoista oli joko vaihd
 
 Lähteet: 
 
-ISO/IEC 7816-4 2020. Identification cards — Integrated circuit cards — Part 4: Organization, security and commands for interchange. International Organization for Standardization. Luettu 17.4.2026. Luettavissa: [Iso.org](https://www.iso.org/standard/77180.html#lifecycle)
-Rytkönen, J. 2013. Kulunvalvonnan toteutus tehden-ohjelmistoon. AMK-opinnäytetyö. Turun ammattikorkeakoulu. Tietojenkäsittely, tietojärjestelmät. Luettu 17.4.2026. Luettavissa: [theseus.fi](https://www.theseus.fi/bitstream/handle/10024/65209/Rytkonen_Janne.pdf?sequence=1)
-unsaflok. Unlocking Millions of Hotel Locks. Luettu 17.4.2026. Luettavissa: [https://unsaflok.com/](https://unsaflok.com/)
+* ISO/IEC 7816-4 2020. Identification cards — Integrated circuit cards — Part 4: Organization, security and commands for interchange. International Organization for Standardization. Luettu 17.4.2026. Luettavissa: [Iso.org](https://www.iso.org/standard/77180.html#lifecycle)
+* Rytkönen, J. 2013. Kulunvalvonnan toteutus tehden-ohjelmistoon. AMK-opinnäytetyö. Turun ammattikorkeakoulu. Tietojenkäsittely, tietojärjestelmät. Luettu 17.4.2026. Luettavissa: [theseus.fi](https://www.theseus.fi/bitstream/handle/10024/65209/Rytkonen_Janne.pdf?sequence=1)
+* unsaflok. Unlocking Millions of Hotel Locks. Luettu 17.4.2026. Luettavissa: [https://unsaflok.com/](https://unsaflok.com/)
