@@ -51,6 +51,6 @@ Alla kuvakaappaus "sudo tcpdump -i any -n" tulosteesta
 
 Lähteet:
 
-Iso-Anttila, L 2026. 5. Laboratorio- ja simulaatioympäristöt hyökkäyksissä. Verkkoon tunkeutuminen ja tiedustelu -opintojakson esitysmateriaali Moodlessa. Haaga-Helia ammattikorkeakoulu. Luettu: 26.04.2026
-Stephen, S . 2024. Network-Security-Lab. Github.com. Luettavissa: https://github.com/ssam246/Network-Security-Lab/blob/main/README.md. Luettu: 26.4.2026
-Ajith, S., Kaimal, V., Musthafa, M., Madusudanan, A. 2022. SDN_DDoS_Simulation. Github.com. Luettavissa: https://github.com/santhisenan/SDN_DDoS_Simulation/blob/master/README.md. Luettu: 26.04.2026
+* Iso-Anttila, L 2026. 5. Laboratorio- ja simulaatioympäristöt hyökkäyksissä. Verkkoon tunkeutuminen ja tiedustelu -opintojakson esitysmateriaali Moodlessa. Haaga-Helia ammattikorkeakoulu. Luettu: 26.04.2026
+* Stephen, S . 2024. Network-Security-Lab. Github.com. Luettavissa: https://github.com/ssam246/Network-Security-Lab/blob/main/README.md. Luettu: 26.4.2026
+* Ajith, S., Kaimal, V., Musthafa, M., Madusudanan, A. 2022. SDN_DDoS_Simulation. Github.com. Luettavissa: https://github.com/santhisenan/SDN_DDoS_Simulation/blob/master/README.md. Luettu: 26.04.2026
