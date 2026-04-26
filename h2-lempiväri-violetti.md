@@ -104,9 +104,9 @@ Selatessani huomasin ainakin, millä taajudella tieto lähetetään joka on 2402
 
 Lähteet: 
 
-Tero, K 22.3.2026 Verkkoon tunkeutuminen ja tiedustelu. Luettavissa: https://terokarvinen.com/verkkoon-tunkeutuminen-ja-tiedustelu/#h2-lempivari-violetti. Luettu 12.4.2026.
-FCC, 1.12.2025. Luettavissa: https://apps.fcc.gov/oetcf/eas/reports/ViewExhibitReport.cfm?mode=Exhibits&RequestTimeout=500&calledFromFrame=N&application_id=TJirHHtzKna57Psipeuy%2FA%3D%3D&fcc_id=2BGKB-K17MAX. Luettu 12.4.2026.
-Wikipedia. Luettavissa: https://en.wikipedia.org/wiki/Ngrep. Luettu 12.4.2026.
-Bianco, D. 17.1.2014. Enterprise Detection & Response. Luettavissa: Enterprise Detection & Response: The Pyramid of Pain. Luettu: Luettu 12.4.2026.
-Caltagirone, S., Pendergast, A. & Betz, C. The Diamond Model of Intrusion Analysis. Luettavissa: The Diamond Model of Intrusion Analysis. Luettu: 12.4.2026.
-Girvin, D. 20.2.2025. Understanding the Apache access log: how to view, locate, and analyze. Luettavissa: Understanding the apache access log: how to view, locate, and analyze. Luettu: 12.4.2026.
+* Tero, K 22.3.2026 Verkkoon tunkeutuminen ja tiedustelu. Luettavissa: https://terokarvinen.com/verkkoon-tunkeutuminen-ja-tiedustelu/#h2-lempivari-violetti. Luettu 12.4.2026.
+* FCC, 1.12.2025. Luettavissa: https://apps.fcc.gov/oetcf/eas/reports/ViewExhibitReport.cfm?mode=Exhibits&RequestTimeout=500&calledFromFrame=N&application_id=TJirHHtzKna57Psipeuy%2FA%3D%3D&fcc_id=2BGKB-K17MAX. Luettu 12.4.2026.
+* Wikipedia. Luettavissa: https://en.wikipedia.org/wiki/Ngrep. Luettu 12.4.2026.
+* Bianco, D. 17.1.2014. Enterprise Detection & Response. Luettavissa: Enterprise Detection & Response: The Pyramid of Pain. Luettu: Luettu 12.4.2026.
+* Caltagirone, S., Pendergast, A. & Betz, C. The Diamond Model of Intrusion Analysis. Luettavissa: The Diamond Model of Intrusion Analysis. Luettu: 12.4.2026.
+* Girvin, D. 20.2.2025. Understanding the Apache access log: how to view, locate, and analyze. Luettavissa: Understanding the apache access log: how to view, locate, and analyze. Luettu: 12.4.2026.
